@@ -20,3 +20,4 @@ cl file.c /Fe:file.exe gdi32.lib user32.lib shell32.lib comctl32.lib ole32.lib
 clang file.c -o file.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
 
 ```
+## REQUIREMENTS : WINDOWS (the OS)(duh) , a C complier , Common sense , A computer , I am just listing whatever
