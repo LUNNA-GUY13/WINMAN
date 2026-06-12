@@ -5,9 +5,9 @@
  * WINMAN - A Windows Window Management and Shell Manipulation Library.
  * This library provides utilities for screen information, window manipulation,
  * desktop icon scraping, and UI simulation (e.g., fake BSOD and Update screens).
- * Made By LunnaGuy13 on GitHub 
- * https://github.com/LunnaGuy13/WinMan
- * MIT 2026 : LunnaGuy13 
+ * Made By Lunna-Guy13 on GitHub 
+ * https://github.com/LUNNA-GUY13/WINMAN
+ * MIT 2026 : Lunna-Guy13 
  * All rights reserved.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
