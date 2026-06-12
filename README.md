@@ -7,16 +7,16 @@ umm WINDOWS BUT COOL
 ### Also I Hate C and C++ now ***ALOT***
 run to complie a file with a winman.h
 ```CMD
-::for all you GCC needs (MinGW)
-gcc demo.c -o demo.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
+::for all you GCC needs (MinGW) (replace file with your file)
+gcc file.c -o file.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
 
 ::G++ 
-g++ demo.cpp -o demo.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
+g++ file.cpp -o file.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
 
 ::for MSVC
-cl demo.c /Fe:demo.exe gdi32.lib user32.lib shell32.lib comctl32.lib ole32.lib
+cl file.c /Fe:file.exe gdi32.lib user32.lib shell32.lib comctl32.lib ole32.lib
 
 ::for Clang 
-clang demo.c -o demo.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
+clang file.c -o file.exe -lgdi32 -luser32 -lshell32 -lcomctl32 -lole32
 
 ```
